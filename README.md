@@ -1,0 +1,1 @@
+# node-sequelize-express-example
