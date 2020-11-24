@@ -1,1 +1,1 @@
-# node-sequelize-express-example
+# d2-forecast
